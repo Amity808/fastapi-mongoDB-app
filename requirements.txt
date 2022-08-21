@@ -1,0 +1,13 @@
+fastapi~=0.79.0
+uvicorn
+pymongo~=4.2.0
+pip~=22.2.2
+attrs~=21.4.0
+wheel~=0.37.1
+cryptography~=37.0.4
+Jinja2~=3.1.2
+keyring~=23.7.0
+setuptools~=62.6.0
+packaging~=21.3
+pyparsing~=3.0.9
+pydantic~=1.9.1
